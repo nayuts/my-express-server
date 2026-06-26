@@ -1,0 +1,3 @@
+# .DS_StoreはMacのFinderで作成される不要なファイル
+.DS_Store
+node_modules
